@@ -2,6 +2,11 @@
 
 A Mini Project I created to Review Basic React Fundamentals
 
+### How to run the project
+
+- `npm install` install dependencies first
+- `npm run dev` runs the project
+
 Features
 
 - Input fields: name, age, symptoms, and insurance number
@@ -11,4 +16,4 @@ Features
 Technologies:
 
 - [MaterialsUI](https://mui.com/material-ui/getting-started/installation/)
-- Redux for practicing management of state
+- Using local storage for now to keep track of the patients.
